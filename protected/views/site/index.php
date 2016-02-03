@@ -20,3 +20,5 @@ Feel free to ask in the <a href="http://www.yiiframework.com/forum/">forum</a>,
 should you have any questions.</p>
 
 <p>changes from yiitestdrive</p>
+
+<p>changes from yiitestdrive2</p>
